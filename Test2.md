@@ -1,9 +1,10 @@
-## This file shows the test by using the datasets of TPC-C.
+## This file shows the test of generating a fact constallation schema by using the datasets of TPC-C.
 
-### 1. Test of generating a fact constallation schema:
-### 1.1. Schema:
+
+### 1. Schema:
 ![Image15](https://user-images.githubusercontent.com/43824695/100207308-bf8e9080-2f07-11eb-9a4a-1614481be04b.png)
-### Instance:
+
+### 2. Instance:
 #### Customer of S1:
 ![image](https://user-images.githubusercontent.com/43824695/100215959-fe294880-2f11-11eb-9177-ca2b3bd5f0e7.png)
 #### Supplier of S1:
@@ -25,9 +26,10 @@
 ![image](https://user-images.githubusercontent.com/43824695/100216753-f4541500-2f12-11eb-8a38-c3eeb31bce14.png)
 ![image](https://user-images.githubusercontent.com/43824695/100217640-f9fe2a80-2f13-11eb-963c-12813b3ac43e.png)
 
-### Test code in the program:
+### 3. Test code in the program:
 ![image](https://user-images.githubusercontent.com/43824695/100206263-64a86980-2f06-11eb-9da8-28d74d2f6afd.png)
-### Result:
+
+### 4.Result:
 #### schema:
 ![image](https://user-images.githubusercontent.com/43824695/100206554-c49f1000-2f06-11eb-9651-001db83a6035.png)
 #### Instance:
