@@ -1,4 +1,4 @@
-## This file shows the test by using the datasets of TPC-C.
+## This file shows the test of generating a star schema by using the datasets of TPC-C.
 
 ### 1. Test of generating a fact constallation schema:
 ### 1.1. Schema:
