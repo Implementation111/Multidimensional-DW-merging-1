@@ -11,7 +11,6 @@
 #### Part of S1:
 ![image](https://user-images.githubusercontent.com/43824695/100216031-14cf9f80-2f12-11eb-8b24-aec92b17459c.png)
 #### Lineorder of S1:
-252954 tuples
 ![image](https://user-images.githubusercontent.com/43824695/100216809-05048b00-2f13-11eb-832b-eee0d5188d9c.png)
 ![image](https://user-images.githubusercontent.com/43824695/100216068-2153f800-2f12-11eb-967a-7dc902a48332.png)
 
