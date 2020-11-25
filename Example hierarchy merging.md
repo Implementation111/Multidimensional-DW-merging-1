@@ -25,4 +25,5 @@
 ### 2.3. Test code in the program:
 ![image](https://user-images.githubusercontent.com/43824695/100192201-c8746780-2ef1-11eb-8264-a968317ed105.png)
 ### 2.4. Result:
-![image](https://user-images.githubusercontent.com/43824695/100192215-d3c79300-2ef1-11eb-807e-456133c32d25.png)
+![image](https://user-images.githubusercontent.com/43824695/100192445-420c5580-2ef2-11eb-8362-7f9d1e5a0d6b.png)
+
