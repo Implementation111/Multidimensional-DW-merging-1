@@ -1,7 +1,7 @@
 ## This file shows the test of generating a star schema by using the datasets of TPC-C.
 
 ### 1. Schema:
-![Image16](https://user-images.githubusercontent.com/43824695/100224729-7e08e000-2f1d-11eb-98b8-ccbf491cdde8.png)
+![Image16](https://user-images.githubusercontent.com/43824695/100232248-697e1500-2f28-11eb-8910-6748ac788c4d.png)
 
 ### 2. Instance:
 #### Customer of S1:
