@@ -18,16 +18,23 @@
 
 
 
-### 2. Example in Figure 7:
+### 2. Example in Figure 9:
 ### 2.1. Schema:
 ![Image9](https://user-images.githubusercontent.com/43824695/100192616-93b4e000-2ef2-11eb-840f-482fac05bbb9.png)
 ### 2.2. Instance:
-#### 2.2.1. Instance of H1:
-![image](https://user-images.githubusercontent.com/43824695/100190972-9b26ba00-2eef-11eb-989e-c89cbb277449.png)
-#### 2.2.2. Instance of H2:
-![image](https://user-images.githubusercontent.com/43824695/100191857-2ce2f700-2ef1-11eb-8cf3-eb7f55423ad0.png)
+#### 2.2.1. Instance of D1:
+![image](https://user-images.githubusercontent.com/43824695/100195306-6d457380-2ef7-11eb-91eb-d77cf7e2b353.png)
+#### 2.2.2. Instance of D2:
+![image](https://user-images.githubusercontent.com/43824695/100195881-4b002580-2ef8-11eb-864c-68c70f890921.png)
 ### 2.3. Test code in the program:
-![image](https://user-images.githubusercontent.com/43824695/100192201-c8746780-2ef1-11eb-8264-a968317ed105.png)
+![image](https://user-images.githubusercontent.com/43824695/100196230-e2fe0f00-2ef8-11eb-934f-618cedbe95b7.png)
 ### 2.4. Result:
-![image](https://user-images.githubusercontent.com/43824695/100192445-420c5580-2ef2-11eb-8362-7f9d1e5a0d6b.png)
+### 2.4.1 Result of schema:
+![image](https://user-images.githubusercontent.com/43824695/100196279-f315ee80-2ef8-11eb-95bc-37de974467cd.png)
+### 2.4.1 Result of instance:
+#### D1':
+![image](https://user-images.githubusercontent.com/43824695/100196377-12148080-2ef9-11eb-8191-f84f8d07c6e3.png)
+#### D2':
+![image](https://user-images.githubusercontent.com/43824695/100196515-40925b80-2ef9-11eb-8748-aea52f489673.png)
+
 
