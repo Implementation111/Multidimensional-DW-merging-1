@@ -20,7 +20,7 @@
 ![image](https://user-images.githubusercontent.com/43824695/100201097-e779f600-2eff-11eb-980f-e39ddae6c96b.png)
 ### 1.4. Result:
 ### schema:
-![image](https://user-images.githubusercontent.com/43824695/100201150-f95b9900-2eff-11eb-83d9-1ec6912fbc78.png)
+![image](https://user-images.githubusercontent.com/43824695/100203112-7a1b9480-2f02-11eb-9714-d43e303b9c67.png)
 ### instance:
 #### Customer:
 ![image](https://user-images.githubusercontent.com/43824695/100201265-23ad5680-2f00-11eb-9acf-1420c56903c4.png)
@@ -34,21 +34,36 @@
 
 ### 2. Example in Figure 14:
 ### 2.1. Schema:
-![Image13](https://user-images.githubusercontent.com/43824695/100197003-fe1d4e80-2ef9-11eb-98c3-a92dbbe90bec.png)
+![Image13](https://user-images.githubusercontent.com/43824695/100203912-7e947d00-2f03-11eb-80d8-74f3ea2639a4.png)
 ### 2.2. Instance:
-#### D1:
+#### Customer of S1:
 ![image](https://user-images.githubusercontent.com/43824695/100195306-6d457380-2ef7-11eb-91eb-d77cf7e2b353.png)
-#### D2:
-![image](https://user-images.githubusercontent.com/43824695/100195881-4b002580-2ef8-11eb-864c-68c70f890921.png)
+#### Time of S1:
+![image](https://user-images.githubusercontent.com/43824695/100201673-9b7b8100-2f00-11eb-9ae1-d4e923103697.png)
+#### Sales of S1:
+![image](https://user-images.githubusercontent.com/43824695/100201722-ab936080-2f00-11eb-9e51-a426845156bf.png)
+#### Customer of S2:
+![image](https://user-images.githubusercontent.com/43824695/100198623-5b1a0400-2efc-11eb-990a-825306d58e03.png)
+#### Product of S2:
+![image](https://user-images.githubusercontent.com/43824695/100202458-a1259680-2f01-11eb-8b31-84264ac2d3ca.png)
+#### Sales of S2:
+![image](https://user-images.githubusercontent.com/43824695/100203368-cebf0f80-2f02-11eb-80a5-1797a0f52d5f.png)
 ### 2.3. Test code in the program:
-![image](https://user-images.githubusercontent.com/43824695/100196230-e2fe0f00-2ef8-11eb-934f-618cedbe95b7.png)
+![image](https://user-images.githubusercontent.com/43824695/100204325-0a0e0e00-2f04-11eb-99db-a30a9d4d08d9.png)
 ### 2.4. Result:
 ### Result of schema:
-![image](https://user-images.githubusercontent.com/43824695/100196279-f315ee80-2ef8-11eb-95bc-37de974467cd.png)
+![image](https://user-images.githubusercontent.com/43824695/100204394-1eeaa180-2f04-11eb-9371-e21a42024521.png)
 ### Result of instance:
-#### D1':
-![image](https://user-images.githubusercontent.com/43824695/100196377-12148080-2ef9-11eb-8191-f84f8d07c6e3.png)
-#### D2':
-![image](https://user-images.githubusercontent.com/43824695/100196515-40925b80-2ef9-11eb-8748-aea52f489673.png)
+#### Customer:
+![image](https://user-images.githubusercontent.com/43824695/100204642-640ed380-2f04-11eb-85e0-84ea64e8a33f.png)
+#### Time:
+![image](https://user-images.githubusercontent.com/43824695/100204701-76890d00-2f04-11eb-8d35-e9749a656f07.png)
+#### Product
+![image](https://user-images.githubusercontent.com/43824695/100204731-83a5fc00-2f04-11eb-9a68-40341ee523a9.png)
+#### Sales1:
+![image](https://user-images.githubusercontent.com/43824695/100204764-902a5480-2f04-11eb-9062-f4663768d84a.png)
+#### Sales2:
+![image](https://user-images.githubusercontent.com/43824695/100204800-9b7d8000-2f04-11eb-9c1d-be0dd2ee6bc7.png)
+
 
 
