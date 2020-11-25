@@ -29,7 +29,8 @@ and o_custkey = custkey
 group by o_custkey, l_partkey, l_suppkey;
 
 DW2 for test2:
-
+ 
+create table customer as
 SELECT * FROM 
 (select c_custkey as custkey, c_mktsegment as segment, n_name as nation from "TPCH".customer, "TPCH".nation
 where c_nationkey = n_nationkey
